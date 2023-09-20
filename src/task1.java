@@ -18,6 +18,8 @@ public class task1 {
             }
         }
     }
+
+    //adding comment for practice
 /*
 Write a method which identifies whether the given number is even or odd
 
@@ -27,4 +29,4 @@ Write a method which identifies whether the given number is even or odd
         identify(6) -> "Even"
  */
 
-}
+
